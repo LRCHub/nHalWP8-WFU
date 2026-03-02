@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HAPPY HAPPY TOMORROW",
+  "base_artist": "真っ白なキャンバス",
+  "createdAt": "2026-03-02T14:22:40.574083Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HAPPY HAPPY TOMORROW",
+      "artist": "真っ白なキャンバス",
+      "has_synced": false,
+      "path": "select/pl_01_HAPPY_HAPPY_TOMORROW_真っ白なキャンバス.txt"
+    }
+  ]
+}
